@@ -5,7 +5,7 @@ Welcome to my Animal Handling and Packaging Services website project!
 ---
 
 ## 👤 About Me
-I am a second-year Information communication and technology student passionate about web development and building practical solutions that can be applied in real-life industries.
+I am a second-year Information communication and technology student at Mzumbe university passionate about web development and building practical solutions that can be applied in real-life industries.
 
 ---
 
@@ -52,7 +52,9 @@ The goal of this project is to demonstrate web development skills while simulati
 ---
 
 ## 👨‍💻 Author
-Created by Emmanuel Barnabas (INFORMATION COMMUNICATION AND TECHNOLOGY STUDENT)
+Created by Emmanuel Stephen Barnabas (INFORMATION COMMUNICATION AND TECHNOLOGY STUDENT)
+Registation Number:14323039/T.24
+
 
 ---
 
