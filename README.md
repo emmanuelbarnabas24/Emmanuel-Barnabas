@@ -1,27 +1,59 @@
-Kuendesha `kuku-biashara` lokali
+# 🐾 Animal Handling & Packaging Services Website
 
-Hatua za haraka (Windows, XAMPP):
+Welcome to my Animal Handling and Packaging Services website project!
 
-1. Fungua XAMPP Control Panel, bonyeza Start kwa `MySQL`.
-2. Fungua PowerShell, nenda kwenye folda ya project:
+---
 
-```powershell
-cd "d:\AI PROJECT\kuku-biashara"
-```
+## 👤 About Me
+I am a second-year Information communication and technology student passionate about web development and building practical solutions that can be applied in real-life industries.
 
-3. Endesha script ya kuanza server:
+---
 
-```powershell
-.\run-local.ps1
-```
+## 📌 Project Overview
+This website is designed for **animal handling and packaging services**, providing information and easy access for customers who need safe, professional, and reliable animal transportation and packaging solutions.
 
-4. Fungua kivinjari na nenda: http://localhost:8000/index.html
+The platform helps users understand services offered and how to request assistance.
 
-Matatizo yanayoweza kutokea:
-- Kama script inasema `php.exe not found` hakikisha XAMPP imewekwa na path ya `php.exe` iko `C:\xampp\php\php.exe` au ongeza `php` kwenye PATH.
-- Kama MySQL haiwezi kuunganishwa, hakikisha `MySQL` imeanza kwenye XAMPP Control Panel na rekebisha `db.php` ukiwa na credentials tofauti.
+---
 
-Faili muhimu:
-- `db.php` — muunganisho wa MySQL na uundaji wa jedwali.
-- `livestock_api.php` — API ya backend kwa mifugo.
-- `mifugo.php`, `index.html`, `script.js` — frontend.
+## 🚀 Features
+- 🐾 Information about animal handling services  
+- 📦 Safe animal packaging guidelines  
+- 📞 Contact form / inquiry section  
+- 📱 Responsive design (mobile & desktop friendly)  
+- ⚡ Simple and user-friendly interface  
+
+---
+
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript
+- PHP
+- JSON  
+
+---
+
+## 🎯 Purpose of This Project
+The goal of this project is to demonstrate web development skills while simulating a real-world service website for animal handling and logistics support.
+
+---
+
+## 🌍 Live Website
+👉 https://emmanuelbarnabas24.github.io/Emmanuel-Barnabas/
+
+---
+
+## 📫 Contact
+- Email: barcomily2003@gmail.com  
+- Phone: +255 785 804 642 
+- Location: Miyuji,DodomaTanzania  
+
+---
+
+## 👨‍💻 Author
+Created by Emmanuel Barnabas (INFORMATION COMMUNICATION AND TECHNOLOGY STUDENT)
+
+---
+
+> “Safe handling. Reliable service. Better care for animals.”
